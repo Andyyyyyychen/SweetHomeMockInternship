@@ -55,5 +55,5 @@ Files: swing/PlanComponent.java, FurnitureTable.java, HomePrintableComponent.jav
 ### Delivery
 - [x] Review all changes independently and address substantive findings.
 - [x] Run mvn clean test and python3 test_submission.py; expect pass.
-- [ ] Link commits to three GitHub issues and close after evidence is ready.
-- [ ] Merge completed branch to main and push to the student's fork; verify remote state.
+- [x] Link commits to three GitHub issues and close after evidence is ready.
+- [x] Merge completed branch to main and push to the student's fork; verify remote state.
